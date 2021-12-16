@@ -1,0 +1,18 @@
+table, th ,tr, td{
+    border: 1px solid black;
+  }
+table, th{
+    color:black;
+    background-color: lightblue;
+    padding: 3px;
+    padding-left: 0px;
+    padding-top:0px;
+  }
+  table, tr{
+      color:darkblue;
+
+  }
+  h3{
+    text-align:center;
+    
+  }
